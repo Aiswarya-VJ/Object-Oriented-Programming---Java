@@ -1,7 +1,7 @@
 public class Stringtoarray {
     public static void main(String[] args) {
         // Create a string
-        String myStr = "Hello";
+        String myStr = "Helloo";
 
         // Convert the string to a char array
         char[] myArray = myStr.toCharArray();
